@@ -14,8 +14,9 @@
 wget -O btpanel_tools.sh https://download.btpanel.cm/tools/btpanel_tools.sh && bash btpanel_tools.sh
 ``` 
 ###### 功能说明
-()清理垃圾[清理系统面板网站产生的缓存日志文件慎用]
-()系统优化[优化系统部分设置暂时只支持centos7.X]
+()清理垃圾[清理系统面板网站产生的缓存日志文件慎用] 
+
+()系统优化[优化系统部分设置暂时只支持centos7.X] 
 ()登陆限制[去除宝塔linux面板强制登陆的限制]
 ()停止服务[停止面板LNMP,Redis,Memcached服务]
 ()修复面板[清理破解版修复面板环境并更新到官方最新]
