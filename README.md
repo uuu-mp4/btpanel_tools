@@ -1,9 +1,9 @@
-![btpanel_tools_logo.jpg](https://www.baota.me/usr/uploads/2021/09/3700702451.jpg)
+
 ###### 简单介绍
 宝塔linux工具箱是一个主要面向Linux Centos系统的脚本管理工具，支持Centos7。
 它包含了一键修改宝塔面板模板、去除强制登陆、一键修复面板、一键更换yum源、清除系统垃圾缓存、系统优化等一系列常见的Linux运维需求。
 ###### 作品截图
- ![btpanel_tools](https://www.baota.me/usr/uploads/2021/09/4224440773.jpg) 
+ ![btpanel_tools](https://z3.ax1x.com/2021/09/06/h45UBV.jpg) 
 ###### 官方网站
  [https://www.btpanel.cm/home/tools/index.html](https://www.btpanel.cm/home/tools/index.html) 
 ###### 执行以下命令使用工具箱
