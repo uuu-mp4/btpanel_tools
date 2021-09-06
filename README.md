@@ -6,10 +6,11 @@
  ![btpanel_tools](https://z3.ax1x.com/2021/09/06/h45UBV.jpg) 
 ###### 官方网站
  [https://www.btpanel.cm/home/tools/index.html](https://www.btpanel.cm/home/tools/index.html) 
-###### 执行以下命令使用工具箱
+###### github命令
 ```shell-session
 wget -O btpanel_tools.sh https://raw.githubusercontent.com/gacjie/btpanel_tools/main/btpanel_tools.sh && bash btpanel_tools.sh
 ``` 
+###### 原版命令
 ```shell-session
 wget -O btpanel_tools.sh https://download.btpanel.cm/tools/btpanel_tools.sh && bash btpanel_tools.sh
 ``` 
